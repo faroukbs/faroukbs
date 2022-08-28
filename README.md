@@ -13,8 +13,7 @@
   <img align="center" alt="Rafa-MYSQL" height="30" width="40" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Rafa-VS" height="30" width="40" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img align="center" alt="Rafa-MYSQL" height="30" width="40" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Rafa-LARAVEL" height="30" width="40" src="https://img.shields.io/badge/laravel-%2300f.svg?style=for-the-badge&logo=laravel&logoColor=white">
-
+    <img align="center" alt="Rafa-LARAVEL" height="30" width="40" src="https://img.shields.io/badge/laravel-%23000000.svg?style=for-the-badge&logo=laravel&logoColor=red">
 
 
 </div>
