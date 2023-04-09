@@ -1,5 +1,19 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Farouk Boussaid</h1>
+<h3 align="center">A passionate DevOps enginner from Tunisia</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## Bienvenue sur mon profile Github !
+
+
+- 🔭 I’m currently a cloud engineer student in **ESPRIT**
+
+- 🌱 I’m currently learning **System Administration,Network Administration,DevOps**
+
+- 💬 Ask me about **LINUX , NETWORKING**
+
+- 📫 How to reach me **farouk.boussaid@esprit.tn**
+
+- ⚡ Fun fact **I am lazy but when it"s time to work there's nothing else unless work **
 <div align="center">
   <a href="https://github.com/faroukbs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faroukbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
