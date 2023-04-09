@@ -13,8 +13,7 @@
 - ⚡ Fun fact **I am lazy but when it"s time to work there's nothing else unless work **
 <div align="center">
   <a href="https://github.com/faroukbs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faroukbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroukbs&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 <div style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
