@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps enginner from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently a cloud engineer student in **ESPRIT**
+- 🔭 I’m currently a cloud engineer student at **ESPRIT**
 
 - 🌱 I’m currently learning **System Administration,Network Administration,DevOps**
 
