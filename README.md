@@ -15,8 +15,7 @@
   <a href="https://github.com/faroukbs">
 
 </div>
-  <div>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faroukbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroukbs&layout=compact&langs_count=7&theme=tokyonight"/></div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroukbs&layout=compact&langs_count=7&theme=tokyonight"/>
 <div style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
